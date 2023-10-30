@@ -1,6 +1,6 @@
 # Northwind Data Modeling Project
 
-![Data Warehouse Model Screenshot](dw.png)
+![Data Warehouse Model Screenshot](DWMohamedabdlerahman.png)
 
 Welcome to the Northwind Data Modeling Project repository. This project aims to create a robust data warehouse model for the Northwind dataset, a sample database often used for learning and testing data warehousing concepts. The project is mentored by Eng. Ahmed Emad as part of the Data Modeling Bootcamp.
 
