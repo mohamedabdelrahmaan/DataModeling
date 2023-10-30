@@ -1,0 +1,3 @@
+Type 1 dimensions (products, customers, suppliers, shippers)  we may be not interested in tracking historical changes.
+Type 2 dimension (employee) tracks historical changes for certain attributes.
+The date dimension  is likely a Type 2 dimension to track changes in date-related attributes over time.
